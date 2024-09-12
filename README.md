@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://i.imgur.com/x8rtGr4.gif" alt="3D Game Shaders For Beginners" title="3D Game Shaders For Beginners">
-</p>
-
 # 3D Game Shaders For Beginners
 
 Interested in adding
@@ -68,9 +64,3 @@ No other portion of 3D Game Shaders For Beginners has been licensed for use.
 ## Attributions
 
 - [Kiwi Soda Font](https://fontenddev.com/fonts/kiwi-soda/)
-
-## Copyright
-
-(C) 2019 David Lettier
-<br>
-[lettier.com](https://www.lettier.com)
